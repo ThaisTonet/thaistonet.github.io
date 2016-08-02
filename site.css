@@ -6,6 +6,11 @@ h1{
 body {
    background-color: aquamarine;
 }
-table tr td {
-    padding: 15px;
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    padding: 5px;
+    text-align: left;
 }
