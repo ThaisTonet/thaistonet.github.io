@@ -1,8 +1,11 @@
 h1{
     font-family: fantasy;
     color: deeppink;
-    align: central; 
+    text-align: center;  
 }
 body {
    background-color: aquamarine;
+}
+table tr td {
+    padding: 15px;
 }
